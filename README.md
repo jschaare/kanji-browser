@@ -1,1 +1,1 @@
-# kanji-browser
+# Kanji Browser
